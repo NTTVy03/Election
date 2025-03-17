@@ -5,6 +5,9 @@ Build Dapp on the Ethereum Network (update 3/2025)
 (this video is an old version, there are some changes by now)
 https://youtu.be/3681ZYbDSSk
 
+**Full Free Article Tutorial:**
+https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial
+
 ## Dependencies
 Install these prerequisites
 - NPM: https://nodejs.org
